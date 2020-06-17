@@ -7,6 +7,7 @@ This project creates a PostgreSQL database schema and ETL pipeline to perform th
 
 **Fact Table**:
 * `songplays`
+
 **Dimension Tables**:
 * `users`
 * `songs`
